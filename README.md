@@ -1,4 +1,4 @@
-##Objetivos de aprendizado
+## Objetivos de aprendizado
 * Entenda a cultura DevOps, sua origem e como ela beneficia as organizações.
 * Conheça a importância da disciplina de infraestrutura como código e as ferramentas
 que podem ser utilizadas para esse fim.
